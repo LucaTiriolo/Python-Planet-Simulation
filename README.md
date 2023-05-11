@@ -1,2 +1,3 @@
-# Python-Planet-Simulation
-A simulation of planets and their orbits around the sun in Python.
+# Simulazione Planetaria in Python
+Una simulazione delle orbite ellittiche dei pianeti attorno al Sole. 
+
